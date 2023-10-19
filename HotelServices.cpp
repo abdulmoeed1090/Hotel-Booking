@@ -1,4 +1,4 @@
-// this is a simple c++ program for room booking
+// This is a simple c++ program for room booking
 #include <iostream>
 using namespace std;
 
